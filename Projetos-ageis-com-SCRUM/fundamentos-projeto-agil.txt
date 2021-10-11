@@ -1,0 +1,6 @@
+1.	Papéis e Responsabilidades do PO
+O PO representa o profissional que tem a visão do que será desenvolvido, as necessidades a serem atendidas, o público que vai utilizar os serviços e os objetivos a serem alcançados. 
+Ele também defini a ordem das tarefas.
+
+2.	Analisando escopo e definindo prioridades
+O Product Backlog é composto por Épicos e Estórias.

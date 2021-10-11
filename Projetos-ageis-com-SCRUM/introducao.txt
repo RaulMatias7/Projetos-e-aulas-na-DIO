@@ -1,0 +1,27 @@
+1.	Conceitos Básicos
+Temos a gestão de projetos Tradicional e Ágeis, a diferença entre os dois é: o Tradicional ele só permite que o projeto avance quando uma fase está inteiramente completa.  Já o Ágil permite que o software seja construído por partes (incremental) e cada parte executa-se em um ciclo(iterativo).
+Em projetos tradicionais, você corre o risco de descobrir que estava errado depois de meses. Com o SCRUM, você descobre que estava errado em no máximo 30 dias.
+
+O que é ser ágil?
+Resumindo é ter a capacidade de responder rapidamente a mudanças.
+
+Quais são os pilares do SCRUM?
+ - Transparência
+ - Adaptação
+ - Inspenção
+
+2.	Papéis e Responsabilidades de cada um time
+No SCRUM temos: 
+ - Product Owner (PO) 
+ – SCRUM MASTER (SM) 
+ – TIME DE DESENVOLIVMENTO (DEV)
+
+3.	Cerimônias do SCRUM
+As cerimônias são:
+
+ - Planejamento da Sprint (Participa o PO, SM e o Team Dev e estimado em 8h a reunião, assunto: o que e como fazer)
+ - Reuniões diárias (Dayly Meeting) [Participa o PO, SM e o Team Dev, os Dev respondem aa perguntaa: o que foi feito no dia anterior, o que está programado para o dia presente, quais os impedimentos… Nota: Essa reunião é feita em pé]
+ - Revisão da Sprint (Review) [Feita no último dia onde os Dev apresentam no PO tudo o que foi desenvolvido, passo a passo – Dura 4h essa meeting]
+ - Retrospectiva da Sprint (Reunião da equipe dos Devs para lições aprendidas – Transparência – Dura 3h)
+
+
