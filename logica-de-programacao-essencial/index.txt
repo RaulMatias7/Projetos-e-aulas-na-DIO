@@ -1,0 +1,20 @@
+Entendendo o que é lógica
+
+Nota: é mais importante resolver o problema, do que entender de código. 
+Programar não é simplesmente digitar código, programar é resolver problemas. Programar = Habilidade de resolver problemas.
+Lógica: “coerência de raciocínio, de ideias” … “sequencia coerente, regular e necessária de acontecimentos, coisas”
+Lógica de programação: significa apenas contextualizar a lógica na programação de computadores, buscando a melhor sequência de ações para solucionar um problema.
+Metacognição: “Pensar como você pensa”
+Abstração: é a habilidade de se concentrar nos aspectos de um contexto qualquer ignorando características menos importantes ou acidentais. [remover informações que não são necessárias]
+
+Algoritmos e pseudocódigo
+
+Algoritmo: é uma sequência de passos que resolve um problema.
+Pseudocódigo: é uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples (nativa, ou seja, em português a quem o escreve, de forma a ser entendida por qualquer pessoa)
+Aprendendo Fluxograma, variáveis e constantes
+Fluxograma: é uma ferramenta utilizada para representar graficamente o algoritmo, isto é, uma sequência lógica e coerente do fluxo de dados.
+Variáveis: é um espaço na memória do computador destinado a um dado que é alterado durante a execução do algoritmo. (Elas podem ser numéricas, caracteres, alfanuméricas ou lógicas.)
+Constantes: são valores imutáveis e não são alterados durante a vida útil do programa.
+Linguagem de programação: é uma linguagem escrita e formal que especifica um conjunto de instruções e regras usadas para gerar programas(software). Existe a de baixo e de Alto nível. Podem ser compiladas e interpretadas.
+Matriz: coleção de variáveis do mesmo tipo, acessíveis com único nome e armazenados continuamente na memória.
+Vetores: são matrizes de uma só dimensão.
