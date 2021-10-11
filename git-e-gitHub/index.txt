@@ -1,0 +1,21 @@
+Introdução ao Git e ao GitHub
+
+Git: sistema de versionamento de código distribuído, criado pelo Linus Torvalds.
+
+SHA1: Algoritmo de incriptação
+
+Chaves SSH e Token
+Passos para criar uma chave SSH
+ssh-keygen –t ed25519 –C [o email associado ao github]
+Criar um passowrde > entrar na pasta criada > usar o comando cat [nome da ssh] > copiar o código e colar no github
+Eval $(ssh-agent –s) > ssh-ad [nome da chave]
+
+Objetos internos do Git
+Blobs, Tree,  Commit
+
+Comandos básicos do Git
+Git init (inicia um repositório)
+Git add (adiciona os arquivos)
+Git commit ( adiciona as alterações mais recentes do código-fonte para o repositório)
+Git push (enviar ao repositório remoto)
+Git pull(puxa as actualizações que estão no repositório remoto)
